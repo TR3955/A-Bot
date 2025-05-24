@@ -32,9 +32,9 @@ async	execute(client) {
     client.user.setPresence({
       status: 'online',
       activity:{
-        name:'KINGMAN STAFF APLICATION SYSTEM',
+        name:'STAFF APLICATION SYSTEM',
         type:'STREAMING',
-        url: 'https://www.twitch.tv/kingman4hack'
+        url: ''
       }
     })
 	}
